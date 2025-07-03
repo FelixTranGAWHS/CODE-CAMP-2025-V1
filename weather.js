@@ -1,3 +1,4 @@
+<!DOCTYPE js>
 document.getElementById('weatherForm').addEventListener('submit', function (e) {
   e.preventDefault();
 var city = document.getElementById('cityInput').value;
